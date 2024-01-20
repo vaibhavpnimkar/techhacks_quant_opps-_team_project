@@ -1,0 +1,20 @@
+{
+  "name": "electron-web-browser",
+  "version": "1.0.0",
+  "description": "A basic Electron web browser",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Krishna",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.2.1"
+  },
+  "dependencies": {
+    "electron-webrtc": "^0.3.0",
+    "node-powershell": "^5.0.1",
+    "robotjs": "^0.6.0",
+    "usb": "^2.10.0"
+  }
+}
